@@ -27,7 +27,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "VannBot" //namabot kalian
-global.ownername= "VannSixteen" //nama kalian
+global.ownername= "Rexxy" //nama kalian
 global.myweb ="https://proxy.site" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCQNMqJTqvCpuAX6qjjEUpfQ" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
@@ -35,7 +35,7 @@ global.email = "revanrzld5@gmail.com" //bebas
 global.region = " America " //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281287968321'] //premium user
-global.owner = ["6281287968321","6281287968321"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281287968321","6285770761334"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281287968321" // nomor wa kalian
 global.ownernomerr = "+6281287968321" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
